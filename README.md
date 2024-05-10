@@ -11,5 +11,5 @@ https://www.agronet.gov.co/estadistica/Paginas/home.aspx?cod=59
 Desarrollado por
 * Samuel Mantilla
 * Nataly Hernandez
-* Andru Moreno
+* Helmy Moreno
 * Felipe Torres
